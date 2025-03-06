@@ -1,0 +1,13 @@
+# Sanal ortam klasörü (GİTHUB'A YÜKLENMESİN)
+venv/
+venv/*
+
+# Python derlenmiş dosyalar
+__pycache__/
+*.pyc
+*.pyd
+*.pyo
+
+# MacOS ve Windows sistem dosyaları
+.DS_Store
+Thumbs.db
